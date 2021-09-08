@@ -6,3 +6,4 @@
 [![CI](https://github.com/PoosaAnusha/Stepin_Election-System/actions/workflows/main.yml/badge.svg)](https://github.com/PoosaAnusha/Stepin_Election-System/actions/workflows/main.yml)
 [![cppcheck-action](https://github.com/PoosaAnusha/Stepin_Election-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/PoosaAnusha/Stepin_Election-System/actions/workflows/cppcheck.yml)
 [![Unit testing](https://github.com/PoosaAnusha/Stepin_Election-System/actions/workflows/unittest.yml/badge.svg)](https://github.com/PoosaAnusha/Stepin_Election-System/actions/workflows/unittest.yml)
+[![Git Inspector](https://github.com/PoosaAnusha/Stepin_Election-System/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/PoosaAnusha/Stepin_Election-System/actions/workflows/git_inspector.yml)
