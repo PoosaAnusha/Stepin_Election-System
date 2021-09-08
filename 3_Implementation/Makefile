@@ -1,4 +1,4 @@
-PROJ_NAME = main
+PROJ_NAME = Election System
 SRC = main.c
 
 ifdef OS
